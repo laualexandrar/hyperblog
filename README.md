@@ -1,2 +1,2 @@
 # hyperblog
-un blog para el uso de Git y GitHub
+Un blog increíble donde me estoy entrenando para aprender a manejar la terminal
