@@ -4,7 +4,11 @@ Hiiiii
 
 Tengo 23 años
 
+<<<<<<< HEAD
 Hoy vive en seattle
 master1
+=======
+Estoy aprendiendo
+>>>>>>> Experimento 1
 
 Manana nos enfocaremos en su vida laboral
